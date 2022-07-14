@@ -4,4 +4,4 @@ This application is about a bit of logic on JavaScript for blurring during count
 
 ## Preview
 
-![video preview]()
+![video preview](assets/blurry-loading.gif)
